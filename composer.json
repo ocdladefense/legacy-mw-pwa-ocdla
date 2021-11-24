@@ -1,0 +1,11 @@
+{
+	"name": "ocdladefense/mw-pwa-ocdla",
+    "description": "",
+    "type": "wordpress-theme",
+    "config": {
+        "preferred-install": {
+            "ocdladefense/*": "source"
+        }
+    },
+    "require": {}
+}
